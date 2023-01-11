@@ -118,7 +118,7 @@ params:
     intro: "Hola, nosotros somos."
     title: "CEINPS"
     subtitle: "Centro de Estudios en Neurociencias"
-    content: "Somos un grupo conformado por estudiantes de psicología de la UNSA a los cuales les apasiona las neurociencias y claro ramas de nuestra propia carrera.."
+    content: "Somos un grupo conformado por estudiantes de psicología de la UNSA a los cuales les apasiona las neurociencias y claro las ramas de nuestra propia carrera.."
     image: https://scontent.faqp3-1.fna.fbcdn.net/v/t39.30808-6/294521261_467567708707571_5985697413857023456_n.png?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHVqxLsMN1H38S8dupH8q4QFQA8DHHgQRgVADwMceBBGHCx5RQhD7NOEcxIUZGVUQbIjD_FNWsSbEdHdqQ6J5sS&_nc_ohc=NGG3a_-p9NgAX8FWV8i&_nc_ht=scontent.faqp3-1.fna&oh=00_AfC-CHNYYzqD_fN3CUKaO5z3n9vlSMs--MkqvDm11k7ZZw&oe=63C2FCFC
     button:
       enable: false
